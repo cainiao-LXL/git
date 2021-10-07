@@ -156,6 +156,7 @@ int main (int argc, const char * argv[]) {
 /*	dofile("../../tests/test5"); */
 
 	/* Now some samplecode for building objects concisely: */
+	//lwx1101878
 	create_objects();
 	
 	return 0;
